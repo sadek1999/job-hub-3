@@ -10,6 +10,7 @@ const Job = ({ job }) => {
                 <div className="">
                     <h2 className="card-title">{job_title}</h2>
                     <p>{company_name}</p>
+                    <p>{id}</p>
                     <p>salary :{salary}</p>
                     <div className="card-actions ">
                         <Link to={`/job/${id}`}>
