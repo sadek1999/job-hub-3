@@ -9,7 +9,8 @@ import {
 import Root from './Component/root/Root.jsx';
 import Home from './Component/home/Home.jsx';
 import Applied from './Component/Applied/Applied.jsx';
-import Blogs from './Component/blogs/Blogs.jsx';
+
+import Details from './Component/Details/Details.jsx';
 
 
 const router = createBrowserRouter([
@@ -26,9 +27,10 @@ const router = createBrowserRouter([
         element:<Applied></Applied>
       },
       {
-        path:"/blogs",
-        element:<Blogs></Blogs>
+        path:"/job/:id",
+        element:<Details></Details>
       }
+      
     ]
   },
 ]);
