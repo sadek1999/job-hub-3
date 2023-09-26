@@ -1,0 +1,139 @@
+[
+    {
+      "id": 1,
+      "title": "Scholarship Fund",
+      "img": "https://i.ibb.co/R4RhXhC/Education.png",
+      "type": "education",
+      "price": 25,
+      "details": "Education is not merely a privilege; it is a fundamental human right that should be accessible to all, regardless of their socio-economic background. Ensuring education for poor people is not just an act of compassion but a strategic investment in the future of societies. Education empowers individuals to break the cycle of poverty, fosters social mobility, and cultivates critical thinking skills that enable them to actively participate in the global economy. It is the foundation upon which innovation, progress, and societal development are built. ",
+      "themeColor": "#FF444A51",
+      "color_bg": "#FF444A38",
+      "textColor": "#FF444A"
+    },
+    {
+      "id": 2,
+      "title": "Basic Health Checkup",
+      "img": "https://i.ibb.co/xCDthvx/Health.png",
+      "type": "health",
+      "price": 40,
+      "details": "Health is a priceless asset that transcends wealth, and it is a universal right that every individual should be able to enjoy regardless of their economic status. Good health not only enhances the quality of life but also plays a crucial role in an individual's ability to pursue their aspirations and contribute to society. Access to healthcare services, preventive measures, and education on health matters are essential components of a thriving society",
+      "themeColor": "#0052FF51",
+      "color_bg": "#0052FF38",
+      "textColor": "#0052FF"
+    },
+    {
+      "id": 3,
+      "title": "Food Drive",
+      "img": "https://i.ibb.co/vQhDk3j/Food.png",
+      "type": "food",
+      "price": 15,
+      "details": "Access to nutritious food is a basic human necessity that should be available to everyone, regardless of their economic circumstances. Food security is not only essential for individual well-being but also for the overall health and stability of communities and nations. Adequate nutrition is critical for physical and mental development, productivity, and overall quality of life. It's a fundamental pillar of human dignity and a prerequisite for people to thrive and reach their potential. ",
+      "themeColor": "#F8714751",
+      "color_bg": "#F8714738",
+      "textColor": "#F87147"
+    },
+    {
+      "id": 4,
+      "title": "Clothing Drive",
+      "img": "https://i.ibb.co/YhpjMHg/Clothing.png",
+      "type": "clothing",
+      "price": 25,
+      "details": "Clothing is more than just a means of protection from the elements; it is a form of self-expression and a basic human necessity. Providing clothing to people in need, especially those who are less fortunate, is an important aspect of promoting dignity and well-being. Access to clean and appropriate clothing contributes to an individual's confidence and self-esteem, enabling them to participate more fully in society.",
+      "themeColor": "#79C23F51",
+      "color_bg": "#79C23F38",
+      "textColor": "#79C23F"
+    },
+    
+    {
+      "id": 6,
+      "title": "Mental Health Support",
+      "img": "https://i.ibb.co/xCDthvx/Health.png",
+      "type": "health",
+      "price": 20,
+      "details": "Health is a priceless asset that transcends wealth, and it is a universal right that every individual should be able to enjoy regardless of their economic status. Good health not only enhances the quality of life but also plays a crucial role in an individual's ability to pursue their aspirations and contribute to society. Access to healthcare services, preventive measures, and education on health matters are essential components of a thriving society",
+      "themeColor": "#0052FF51",
+      "color_bg": "#0052FF38",
+      "textColor": "#0052FF"
+    },
+    {
+      "id": 5,
+      "title": "STEM Learning Program",
+      "img": "https://i.ibb.co/R4RhXhC/Education.png",
+      "type": "education",
+      "price": 30,
+      "details": "Education is not merely a privilege; it is a fundamental human right that should be accessible to all, regardless of their socio-economic background. Ensuring education for poor people is not just an act of compassion but a strategic investment in the future of societies. Education empowers individuals to break the cycle of poverty, fosters social mobility, and cultivates critical thinking skills that enable them to actively participate in the global economy. It is the foundation upon which innovation, progress, and societal development are built. ",
+      "themeColor": "#FF444A51",
+      "color_bg": "#FF444A38",
+      "textColor": "#FF444A"
+    },
+    {
+      "id": 7,
+      "title": "Nutrition Education",
+      "img": "https://i.ibb.co/vQhDk3j/Food.png",
+      "type": "food",
+      "price": 10,
+      "details": "Access to nutritious food is a basic human necessity that should be available to everyone, regardless of their economic circumstances. Food security is not only essential for individual well-being but also for the overall health and stability of communities and nations. Adequate nutrition is critical for physical and mental development, productivity, and overall quality of life. It's a fundamental pillar of human dignity and a prerequisite for people to thrive and reach their potential. ",
+      "themeColor": "#F8714751",
+      "color_bg": "#F8714738",
+      "textColor": "#F87147"
+    },
+    {
+      "id": 9,
+      "title": "Art Education Program",
+      "img": "https://i.ibb.co/R4RhXhC/Education.png",
+      "type": "education",
+      "price": 20,
+      "details": "Education is not merely a privilege; it is a fundamental human right that should be accessible to all, regardless of their socio-economic background. Ensuring education for poor people is not just an act of compassion but a strategic investment in the future of societies. Education empowers individuals to break the cycle of poverty, fosters social mobility, and cultivates critical thinking skills that enable them to actively participate in the global economy. It is the foundation upon which innovation, progress, and societal development are built. ",
+      "themeColor": "#FF444A51",
+      "color_bg": "#FF444A38",
+      "textColor": "#FF444A"
+    },
+    {
+      "id": 8,
+      "title": "Back-to-School Clothes",
+      "img": "https://i.ibb.co/YhpjMHg/Clothing.png",
+      "type": "clothing",
+      "price": 15,
+      "details": "Clothing is more than just a means of protection from the elements; it is a form of self-expression and a basic human necessity. Providing clothing to people in need, especially those who are less fortunate, is an important aspect of promoting dignity and well-being. Access to clean and appropriate clothing contributes to an individual's confidence and self-esteem, enabling them to participate more fully in society.",
+      "themeColor": "#79C23F51",
+      "color_bg": "#79C23F38",
+      "textColor": "#79C23F"
+    },
+    
+    {
+      "id": 10,
+      "title": "Child Nutrition Program",
+      "img": "https://i.ibb.co/xCDthvx/Health.png",
+      "type": "health",
+      "price": 35,
+      "details": "Health is a priceless asset that transcends wealth, and it is a universal right that every individual should be able to enjoy regardless of their economic status. Good health not only enhances the quality of life but also plays a crucial role in an individual's ability to pursue their aspirations and contribute to society. Access to healthcare services, preventive measures, and education on health matters are essential components of a thriving society",
+      "themeColor": "#0052FF51",
+      "color_bg": "#0052FF38",
+      "textColor": "#0052FF"
+    },
+    {
+      "id": 12,
+      "title": "Winter Coat Drive",
+      "img": "https://i.ibb.co/YhpjMHg/Clothing.png",
+      "type": "clothing",
+      "price": 30,
+      "details": "Clothing is more than just a means of protection from the elements; it is a form of self-expression and a basic human necessity. Providing clothing to people in need, especially those who are less fortunate, is an important aspect of promoting dignity and well-being. Access to clean and appropriate clothing contributes to an individual's confidence and self-esteem, enabling them to participate more fully in society.",
+      "themeColor": "#79C23F51",
+      "color_bg": "#79C23F38",
+      "textColor": "#79C23F"
+    }
+    ,
+    
+    {
+      "id": 11,
+      "title": "Emergency Food Relief",
+      "img": "https://i.ibb.co/vQhDk3j/Food.png",
+      "type": "food",
+      "price": 50,
+      "details": "Access to nutritious food is a basic human necessity that should be available to everyone, regardless of their economic circumstances. Food security is not only essential for individual well-being but also for the overall health and stability of communities and nations. Adequate nutrition is critical for physical and mental development, productivity, and overall quality of life. It's a fundamental pillar of human dignity and a prerequisite for people to thrive and reach their potential. ",
+      "themeColor": "#F8714751",
+      "color_bg": "#F8714738",
+      "textColor": "#F87147"
+    }
+  ]
+  
